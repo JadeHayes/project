@@ -42,7 +42,7 @@ SQLAlchemy==1.1.7
 text-unidecode==1.1
 Twisted==17.9.0
 update-checker==0.16
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.19.0
 Werkzeug==0.14.1
 zope.interface==4.4.3
